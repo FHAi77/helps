@@ -1,5 +1,15 @@
 # n8n MCP客户端案例指南
 
+## 下载启动n8n镜像
+- 设置环境变量名
+```
+N8N_COMMUNITY_PACKAGES_ALLOW_TOOL_USAGE
+```
+- 设置环境变量值
+```
+true
+```
+
 ## 安装n8n MCP客户端节点
 ```
 n8n-nodes-mcp
