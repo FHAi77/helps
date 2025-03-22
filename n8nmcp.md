@@ -13,12 +13,15 @@ npx
 ```
 - arguments 安装参数
 ```
--y @modelcontextprotocol/brave-search
+-y @modelcontextprotocol/server-brave-search
 ```
 - Environments 环境变量，切换到 Expression 表达式模式
 ```
 BRAVE_API_KEY=你的Brave API密钥
 ```
+
+申请一个免费的Brave API密钥：[点击这里](https://brave.com/)
+
 
 - 执行工具节点的配置指令
 ```
