@@ -20,7 +20,7 @@ npx
 BRAVE_API_KEY=你的Brave API密钥
 ```
 
-申请一个免费的Brave API密钥：[点击这里](https://brave.com/)
+申请一个免费的Brave API密钥：[点击这里](https://brave.com/search/api/)
 
 
 - 执行工具节点的配置指令
