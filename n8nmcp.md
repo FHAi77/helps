@@ -49,7 +49,7 @@ npx
 -y @modelcontextprotocol/server-filesystem /home/node/.n8n
 ```
 
-## MCP样例服务器列表
+## MCP样例服务器列表 [点此查看](https://github.com/modelcontextprotocol/servers)
 ```
 https://github.com/modelcontextprotocol/servers
 ```
