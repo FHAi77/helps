@@ -1,5 +1,8 @@
 # n8n MCP客户端案例指南
 
+## 相关视频
+<video src="https://youtu.be/AyETLEEouT0" controls width="600"></video>
+
 ## 下载启动n8n镜像
 - 设置环境变量名
 ```
@@ -52,4 +55,4 @@ npx
 ## MCP样例服务器列表 [点此查看](https://github.com/modelcontextprotocol/servers)
 ```
 https://github.com/modelcontextprotocol/servers
-```
+``` 
