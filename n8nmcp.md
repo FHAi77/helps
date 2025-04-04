@@ -1,7 +1,7 @@
 # n8n MCP客户端案例指南
 
 ## 相关视频
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AyETLEEouT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+点击这里查看相关视频：[n8n MCP客户端案例指南](https://www.youtube.com/embed/AyETLEEouT0)
 
 ## 下载启动n8n镜像
 - 设置环境变量名
