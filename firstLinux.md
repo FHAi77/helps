@@ -9,9 +9,13 @@ sudo yum install yum-utils
 ### yum常用指令
 
 · `sudo yum install 软件名`：安装软件。
+
 · `sudo yum remove 软件名`：卸载软件。
+
 · `sudo yum update 软件名`：更新软件。
+
 · `sudo yum list 软件名`：列出所有可安装的软件。
+
 · `sudo yum search 软件名`：搜索软件。
 
 
