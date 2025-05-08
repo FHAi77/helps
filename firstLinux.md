@@ -1,5 +1,9 @@
 # 第一个Linux服务器辅助文档
 
+### 远程控制软件
+
+woterm 下载地址[https://cn.woterm.com/]
+
 ### 安装yum-utils工具包
 
 ```bash
