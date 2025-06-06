@@ -1,4 +1,7 @@
-# n8n MCP客户端案例指南
+---
+title: n8n MCP客户端案例指南
+tags: mcp,n8n
+---
 
 ## 相关视频
 点击这里查看相关视频：[n8n MCP客户端案例指南](https://www.youtube.com/embed/AyETLEEouT0)

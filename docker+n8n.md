@@ -1,4 +1,7 @@
-# 【0基础系列01】安装docker和n8n
+---
+title: 【0基础系列01】安装docker和n8n
+tags: Linux,centos,docker,n8n
+---
 
 
 ## 添加docker官方源到yum仓库
