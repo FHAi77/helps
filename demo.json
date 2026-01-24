@@ -1,0 +1,22 @@
+[
+  {
+    "title": "n8n 错误自愈工作流：设计理念",
+    "description": "介绍如何通过 Error Trigger 和 AI Agent 构建具备自愈能力的自动化系统。",
+    "link": "https://example.com/n8n-self-healing-design"
+  },
+  {
+    "title": "为什么传统自动化总是半夜报警？",
+    "description": "分析自动化流程在字段变更、接口升级时常见的失败模式，以及如何提前设计容错机制。",
+    "link": "https://example.com/automation-failure-patterns"
+  },
+  {
+    "title": "AI Agent 在 n8n 中的正确使用方式",
+    "description": "讲解如何给 AI 明确角色、边界和输出格式，让它真正成为工作流里的工程师。",
+    "link": "https://example.com/n8n-ai-agent-best-practice"
+  },
+  {
+    "title": "Error Trigger 深度解析",
+    "description": "从工程角度讲清楚 Error Trigger 的触发机制、局限性以及设计误区。",
+    "link": "https://example.com/n8n-error-trigger-deep-dive"
+  }
+]
